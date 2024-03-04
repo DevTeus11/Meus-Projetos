@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+header{
+    margin: 10px 0 30px 76px;
+}
+.link-header{
+    color: #17233D;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 29px;
+    margin: 23px;
+}
+.button-header{
+    background: #6FBF44;
+    border-radius: 6px;
+    border: none;
+    width: 95px;
+    height: 35px;
+    font-weight: 30px;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;  
+}
+.logo_image{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
+section{
+    display: inline-block;
+    margin-left: 55px;
+    width: 450px;
+}
+h1{
+ font-weight: 700px;
+ line-height: 52px;
+ font-size: 52px;
+ color: #161A49;
+}
+p{
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 25px;
+    color: #848484;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+.link-section{
+    color: #6FBF44;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 34px;
+    cursor: pointer;
+}

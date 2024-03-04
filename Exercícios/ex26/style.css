@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    background: black;
+    color: #b2b2b2;
+    padding: 10px;
+    margin: 10px 60px;
+    border-radius: 9px;
+}
+.Item{
+    background: #b2b2b2;
+    padding: 35px 25px;
+    margin: 15px;
+    border-radius: 30px;
+    border: solid #696666;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.Preço{
+    text-align: center;
+}
+p{
+    color: white;
+    margin: 15px;
+}
+.Comprar{
+    background: rgb(255, 217, 0);
+    padding: 10px 20px;
+    margin: 15px;
+    border-radius: 10px;
+}
+a{
+    color: black;
+}
+.Grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px
+}

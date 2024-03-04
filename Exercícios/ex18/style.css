@@ -1,0 +1,13 @@
+.box{
+ background: rgb(123, 255, 0);
+ height: 50px;
+ width: 50px;  
+ margin: 10px; 
+ display: inline-block;
+}
+.box2{
+    background: rgb(0, 79, 168);
+}
+.box3{
+    background: rgb(204, 184, 0);
+}

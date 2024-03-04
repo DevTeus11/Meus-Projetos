@@ -1,0 +1,13 @@
+#texto01{
+    color: blue;
+}
+#texto02{
+    color:rgb(99, 100, 38)
+}
+#texto03{
+    color: seagreen;
+}
+.subtitulo{
+    background-color: blueviolet;
+    font-size: 30px;
+}

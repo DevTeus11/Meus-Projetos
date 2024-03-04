@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    height: 200vh;
+    width: 200vw;
+}
+.pai{
+    height: 350px;
+    width: 350px;
+    background-color: aqua;
+    position: fixed;
+    top: 30px;
+}
+.filho{
+        height: 175px;
+        width: 175px;
+        background-color: blue;
+}
