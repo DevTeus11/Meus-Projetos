@@ -1,8 +1,9 @@
 # Olá! Eu sou o Mateus Silva 👋
-## Contato:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devteus/)
- ![devteus@gmail.com](https://img.shields.io/badge/(Devteus1910@gmail.com)-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### Contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devteus/)      ![devteus@gmail.com](https://img.shields.io/badge/(Devteus1910@gmail.com)-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Mateus Silva Github Stats](https://github-readme-stats.vercel.app/api?username=Devteus11&show_icons=true&theme=gotham)
+## Tecnologias que estou aprendendo
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Mateus Silva Github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gotham)
-
-
+Eu sou estudante de engenharia de software na Estácio. Estou no segundo semestre do curso e tenho muito interesse em aprender sobre as tecnologias da web. Meu objetivo é me tornar um desenvolvedor fullstack, capaz de trabalhar tanto no front-end quanto no back-end das aplicações. Para isso, estou sempre buscando me atualizar e me aperfeiçoar nas ferramentas e conceitos da área. Espero poder compartilhar minhas experiências e aprender com vocês. Obrigado pela atenção.
