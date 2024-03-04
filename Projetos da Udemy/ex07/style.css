@@ -1,0 +1,20 @@
+#principal{
+    width: 920px;
+}
+.noticia{
+    background: #e5e5e5;
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.img-galeria{
+    background: white;
+    width: 265px;
+    padding: 5px;
+    margin: 15px;
+    float: left;
+}
